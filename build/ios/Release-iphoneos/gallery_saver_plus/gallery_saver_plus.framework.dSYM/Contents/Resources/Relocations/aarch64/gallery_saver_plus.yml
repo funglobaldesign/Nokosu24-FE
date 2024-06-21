@@ -1,0 +1,54 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/miramiki/dev/GlobalDesign/haru-workingD/nokosu2024FE/build/ios/Release-iphoneos/gallery_saver_plus/gallery_saver_plus.framework/gallery_saver_plus'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x73ECC, size: 0x8, addend: 0x0, symName: _gallery_saver_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x8D50, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x73F01, size: 0x8, addend: 0x0, symName: _gallery_saver_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x8D80, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x73F3E, size: 0x8, addend: 0x0, symName: '+[GallerySaverPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC }
+  - { offsetInCU: 0x91, offset: 0x73FA8, size: 0x8, addend: 0x0, symName: '+[GallerySaverPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC }
+  - { offsetInCU: 0x43, offset: 0x74058, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC4pathSSvpfi', symObjAddr: 0x0, symBinAddr: 0x400C, symSize: 0x10 }
+  - { offsetInCU: 0x5B, offset: 0x74070, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9albumNameSSvpfi', symObjAddr: 0x10, symBinAddr: 0x401C, symSize: 0x1C }
+  - { offsetInCU: 0x108, offset: 0x7411D, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8register4withySo07FlutterG9Registrar_p_tFZTo', symObjAddr: 0x148, symBinAddr: 0x4154, symSize: 0xF0 }
+  - { offsetInCU: 0x1CF, offset: 0x741E4, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x4A0, symBinAddr: 0x44AC, symSize: 0x7C }
+  - { offsetInCU: 0x2AF, offset: 0x742C4, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC17_saveMediaToAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA0I4TypeOSSSgyypSgctFys5Error_pSgcfU_', symObjAddr: 0xC70, symBinAddr: 0x4C7C, symSize: 0xBC }
+  - { offsetInCU: 0x362, offset: 0x74377, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_', symObjAddr: 0xDBC, symBinAddr: 0x4DC8, symSize: 0x218 }
+  - { offsetInCU: 0x3E2, offset: 0x743F7, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfcTo', symObjAddr: 0x1048, symBinAddr: 0x5054, symSize: 0x80 }
+  - { offsetInCU: 0x433, offset: 0x74448, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC28fetchAssetCollectionForAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LLySo07PHAssetJ0CSgSSFTf4nd_n', symObjAddr: 0x127C, symBinAddr: 0x5288, symSize: 0x184 }
+  - { offsetInCU: 0x50E, offset: 0x74523, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFTf4nnnnd_n', symObjAddr: 0x1400, symBinAddr: 0x540C, symSize: 0x220 }
+  - { offsetInCU: 0x580, offset: 0x74595, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFTf4nnd_n', symObjAddr: 0x1620, symBinAddr: 0x562C, symSize: 0x174 }
+  - { offsetInCU: 0x5BF, offset: 0x745D4, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctF015$syXlSgIeyBy_ypP7Iegn_TRyXlSgIeyBy_Tf1nncn_nTf4nnng_n', symObjAddr: 0x1794, symBinAddr: 0x57A0, symSize: 0x5A8 }
+  - { offsetInCU: 0x77F, offset: 0x74794, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypO7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x1D3C, symBinAddr: 0x5D48, symSize: 0x2D8 }
+  - { offsetInCU: 0x909, offset: 0x7491E, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCMa', symObjAddr: 0x128, symBinAddr: 0x4134, symSize: 0x20 }
+  - { offsetInCU: 0x928, offset: 0x7493D, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x420, symBinAddr: 0x442C, symSize: 0x40 }
+  - { offsetInCU: 0x93C, offset: 0x74951, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x460, symBinAddr: 0x446C, symSize: 0x40 }
+  - { offsetInCU: 0x950, offset: 0x74965, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TR', symObjAddr: 0x51C, symBinAddr: 0x4528, symSize: 0xD0 }
+  - { offsetInCU: 0x980, offset: 0x74995, size: 0x8, addend: 0x0, symName: '_$sSo21PHAuthorizationStatusVIegy_ABIeyBy_TR', symObjAddr: 0xC34, symBinAddr: 0x4C40, symSize: 0x3C }
+  - { offsetInCU: 0x998, offset: 0x749AD, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0xD2C, symBinAddr: 0x4D38, symSize: 0x2C }
+  - { offsetInCU: 0x9B0, offset: 0x749C5, size: 0x8, addend: 0x0, symName: '_$sSbs5Error_pSgIegyg_SbSo7NSErrorCSgIeyByy_TR', symObjAddr: 0xD58, symBinAddr: 0x4D64, symSize: 0x64 }
+  - { offsetInCU: 0x9C8, offset: 0x749DD, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCfETo', symObjAddr: 0x10F8, symBinAddr: 0x5104, symSize: 0x40 }
+  - { offsetInCU: 0xA8C, offset: 0x74AA1, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x2014, symBinAddr: 0x6020, symSize: 0x48 }
+  - { offsetInCU: 0xAA0, offset: 0x74AB5, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x205C, symBinAddr: 0x6068, symSize: 0x24 }
+  - { offsetInCU: 0xAB4, offset: 0x74AC9, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x2080, symBinAddr: 0x608C, symSize: 0x20 }
+  - { offsetInCU: 0xAC8, offset: 0x74ADD, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TRTA', symObjAddr: 0x20C4, symBinAddr: 0x60D0, symSize: 0x8 }
+  - { offsetInCU: 0xADC, offset: 0x74AF1, size: 0x8, addend: 0x0, symName: '_$sypSgWOb', symObjAddr: 0x20CC, symBinAddr: 0x60D8, symSize: 0x48 }
+  - { offsetInCU: 0xAF0, offset: 0x74B05, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x2114, symBinAddr: 0x6120, symSize: 0x10 }
+  - { offsetInCU: 0xB04, offset: 0x74B19, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x2134, symBinAddr: 0x6140, symSize: 0x10 }
+  - { offsetInCU: 0xB18, offset: 0x74B2D, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2144, symBinAddr: 0x6150, symSize: 0x8 }
+  - { offsetInCU: 0xB2C, offset: 0x74B41, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0x214C, symBinAddr: 0x6158, symSize: 0x3C }
+  - { offsetInCU: 0xB40, offset: 0x74B55, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFyycfU_TA', symObjAddr: 0x21B4, symBinAddr: 0x61C0, symSize: 0x70 }
+  - { offsetInCU: 0xB74, offset: 0x74B89, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_TA', symObjAddr: 0x2248, symBinAddr: 0x6254, symSize: 0xC }
+  - { offsetInCU: 0xB88, offset: 0x74B9D, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_yyScMYccfU_TA', symObjAddr: 0x2280, symBinAddr: 0x628C, symSize: 0x28 }
+  - { offsetInCU: 0xBC4, offset: 0x74BD9, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x22E8, symBinAddr: 0x62F4, symSize: 0x54 }
+  - { offsetInCU: 0xBD8, offset: 0x74BED, size: 0x8, addend: 0x0, symName: '_$sS2Ss7CVarArg10FoundationWl', symObjAddr: 0x233C, symBinAddr: 0x6348, symSize: 0x44 }
+  - { offsetInCU: 0xC1C, offset: 0x74C31, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFyycfU_TA', symObjAddr: 0x23F4, symBinAddr: 0x6400, symSize: 0x1E8 }
+  - { offsetInCU: 0xD0C, offset: 0x74D21, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFySb_s5Error_pSgtcfU0_TA', symObjAddr: 0x25DC, symBinAddr: 0x65E8, symSize: 0x58 }
+  - { offsetInCU: 0x10C2, offset: 0x750D7, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x2C, symBinAddr: 0x4038, symSize: 0xDC }
+  - { offsetInCU: 0x1144, offset: 0x75159, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfC', symObjAddr: 0x108, symBinAddr: 0x4114, symSize: 0x20 }
+  - { offsetInCU: 0x1178, offset: 0x7518D, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x238, symBinAddr: 0x4244, symSize: 0x1E8 }
+  - { offsetInCU: 0x12A1, offset: 0x752B6, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctF', symObjAddr: 0x5EC, symBinAddr: 0x45F8, symSize: 0x4A8 }
+  - { offsetInCU: 0x143C, offset: 0x75451, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctFySo21PHAuthorizationStatusVcfU_', symObjAddr: 0xA94, symBinAddr: 0x4AA0, symSize: 0x1A0 }
+  - { offsetInCU: 0x1576, offset: 0x7558B, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfc', symObjAddr: 0xFD4, symBinAddr: 0x4FE0, symSize: 0x74 }
+  - { offsetInCU: 0x15A7, offset: 0x755BC, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCfD', symObjAddr: 0x10C8, symBinAddr: 0x50D4, symSize: 0x30 }
+  - { offsetInCU: 0x15D7, offset: 0x755EC, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x1138, symBinAddr: 0x5144, symSize: 0x64 }
+  - { offsetInCU: 0x1615, offset: 0x7562A, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x119C, symBinAddr: 0x51A8, symSize: 0xE0 }
+...

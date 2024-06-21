@@ -1,0 +1,56 @@
+name: nokosu2023
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  provider: ^6.0.1
+  shared_preferences: ^2.2.2
+  flutter_inset_box_shadow: ^1.0.8
+  json_annotation: ^4.8.1
+  json_serializable: ^6.7.1
+  flutter_svg: ^2.0.9
+  http: ^0.13.6
+  permission_handler: ^11.0.1
+  cupertino_icons: ^1.0.2
+  camera: ^0.10.5+5
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  image_picker: ^1.0.4
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
+  flutter_launcher_icons: ^0.13.1
+  url_launcher: ^6.2.1
+  screenshot: ^3.0.0
+  fluttertoast: ^8.2.4
+  gallery_saver_plus: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.6
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/icons/
+    - assets/imgs/
+    - assets/imgs/tutorial/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/imgs/logo.png"

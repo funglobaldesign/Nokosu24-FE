@@ -1,0 +1,62 @@
+﻿key,en,ja,ko,zh
+address,Address,所在地,주소,地址
+allFieldsRequired,Please fill all the fields,すべての欄にご記入ください。,모든 입력란을 작성해 주세요.,
+cancel,Cancel,キャンセル,취소,请填写所有栏目
+createdby,Created By,作成者,만든 사람,创建者
+cult,Cultural,文化的,문화적 요인,文化
+desc,Description,説明,설명,说明
+done,Done,終了,완료,已完成
+email,Email,電子メール,이메일,电子邮件
+emo,Emotional,感情的,감성적 요인,情绪化的
+errfix,Fix the errors in the form,フォームのエラーを修正する,양식의 오류 수정,修正表格中的错误
+erric,Invalid credentials,無効な認証情報,잘못된 자격 증명,证件无效
+errunauth,Unauthorized action,不正行為,무단 조치,未经授权的行动
+firstname,First Name,名前,이름,姓
+forgotpw,Forgot Password?,パスワードをお忘れですか？,비밀번호를 잊으셨나요?,忘记密码？
+group,Group,グループ,그룹,组别
+groups,Groups,グループ,그룹,组别
+home,Home,ホーム,홈,首页
+lastname,Last Name,名字,성,名
+locname,Location Name,場所名,위치 이름,地点名称
+login,Login,ログイン,로그인,登录
+negative,Negative,否定的,부정적,阴性
+newuser,New User?,新しいユーザー？,신규 사용자이신가요?,新用户？
+next,Next,次へ,다음,下一页
+nocult,Not-Cultural,非文化的,문화적 요인과 상관없는,非文化
+noemo,Not-Emotional,感情的ではない,감성적 요인과 상관없는,非情感
+nophys,Not-Physical,非物理的,물리적요인과 상관없는,非物理
+ok,OK,確認,확인,确认
+password,Password,パスワード,비밀번호,密码
+passwordconf,Password Confirmation,パスワードの確認,비밀번호 확인,密码确认
+phys,Physical,物理的,물리적 요인,物理的
+positive,Positive,肯定的,긍정적,积极的
+register,Register,登録,등록,注册
+registerhere,Register here,ここに登録,여기에서 등록하세요,在此注册
+resethere,Reset here,ここでリセット,여기에서 재설정,在此重置
+selcats,Select Appropriate Categories,適切なカテゴリーを選択する,적절한 카테고리 선택,选择适当的类别
+submit,Submit,投稿する,투고하기,提交
+taptoviewim,Tap to view the image,タップして画像を表示,이미지를 보려면 탭하세요.,轻点查看图像
+topic,Topic,トピック,주제,主题
+unnamed,Unnamed,無名,이름 없음,未命名
+username,Username,ユーザー名,사용자 이름,用户名
+exists,Already Exists,すでに存在する,이미 존재함,已存在
+savedimage,Saved to the gallery,ギャラリーに保存した,갤러리에 저장했습니다.,已保存到图库中
+errnosave,Couldn't save,保存できなかった,저장할 수 없었습니다.,无法保存
+saving,Saving,保存中,저장 중입니다.,正在保存中
+deleted,Deleted Successfully,削除が成功しました。,성공적으로 삭제되었습니다.,已成功删除
+deleteconf,Are you sure to delete,削除しますか？,삭제하시겠습니까?,是否确定删除？
+yes,Yes,はい,네,是
+no,No,いいえ,아니오,否
+errcrs,Something went wrong,何か問題が発生しました。,문제가 발생했습니다.,出现某些问题
+logout,Logout,ログアウト,로그아웃,注销
+photodel,This photo and information may not be saved,この写真と情報は保存されていない可能性があります。,이 사진과 정보가 저장되지 않을 수 있습니다.,此照片和信息可能未保存。
+checkemail,Please check your email for password reset link,パスワードのリセットリンクはメールで確認してください。,비밀번호 재설정 링크를 이메일로 확인하십시오.,请检查您的电子邮件以获取密码重置链接。
+noemail,Could not find an account for the above email address,上記のメールアドレスに対応するアカウントが見つかりませんでした。,이메일 계정을 찾을 수 없습니다.,未找到上述电子邮件地址的帐户。
+logoutconf,Are you sure to logout?,ログアウトしますか？,로그아웃 하시겠습니까?,是否确定注销？
+editprof,Edit Profile,プロフィールを編集,프로필 편집,编辑个人资料
+accstatus,Account Status,アカウントの状態,계정 상태,帐户状态
+admin,Admin,管理者,관리자,管理员
+staff,Staff,スタッフ,스태프,员工
+regular,Regular User,通常のユーザー,일반 사용자,普通用户
+djoined,Date Joined,参加日,가입 날짜,加入日期
+lastlogin,Last Login,最終ログイン,마지막 로그인,上次登录

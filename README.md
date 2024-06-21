@@ -1,2 +1,2 @@
-# Nokosu24-FE
-Nokosu App repository for Global Design Project2024
+# Nokosu2023
+The improved version of Nokosu which can be used as tool for KJ method
